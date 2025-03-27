@@ -13,3 +13,9 @@
 # Learn something about 机器学习、深度学习，it is very difficult for me ,a little I can understand, need to more learning.
 # I thought I must learn some easy projects or AI codes first ,then I can understand some concepts or models about AI
 # next step I will learn Numpy,make some codes ,try to create a task and so on.
+# Day four
+# Learn some informations about Github,how to get codes, search some projects about AI modules.
+# Watch some videos how to learn Ai, how to use Ai,and  Furcher Vision .
+# Use Ai to learn ,know,practise .
+# Find some projects that I can make money.
+# learn array 
