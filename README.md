@@ -19,3 +19,7 @@
 # Use Ai to learn ,know,practise .
 # Find some projects that I can make money.
 # learn array 
+# Day five 
+# Learn to how to find some information about stocks, noted some webs about stocks infomations.
+# noted some exchange INdexes such as 上证，港股，美股，黄金。
+# Create two Python file about Stock.
